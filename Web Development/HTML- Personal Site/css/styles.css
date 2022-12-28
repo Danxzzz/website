@@ -1,0 +1,23 @@
+body {
+        background-color: teal;
+    }
+hr 
+    {
+        background-color: teal;
+        border-style: solid;
+        height: 0px;
+        width: 100%;
+        border-width: 1px;
+        border-bottom-style: none;
+        border-color: black;
+    }
+h3 {
+    background-color: teal;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    font-style: italic;
+    font-size: 40px;
+}
+p{
+    color: white;
+}
